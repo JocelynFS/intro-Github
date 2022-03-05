@@ -3,6 +3,6 @@ Taller desarrollado
 
 
  Intro a github
- Estoy practicando
+ Estoy practicando 😂
 
 ![Back](img/psi.png)
